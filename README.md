@@ -1,5 +1,5 @@
 # vba_generator
-#### A simple script for generating a VBA macro containing a reverse shell to the target, intended for the OSCP exam.
+#### A simple script for generating a reverse shell VBA macro, intended for the OSCP exam.
 
 ## Usage
 
